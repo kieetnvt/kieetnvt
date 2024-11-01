@@ -1,16 +1,23 @@
-## Hi there 👋
+Welcome to My GitHub! 👋
 
-<!--
-**kieetnvt/kieetnvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m kieetnvt! I’m a Ruby on Rails developer with over 7 years of experience. I build scalable web applications, optimize performance, and love exploring the latest tech trends. 
+I'm also a NodeJS developer as well 😀
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	•	Backend: Ruby on Rails, Node.js, ExpressJS, NestJS, AdonisJS
+	•	Frontend: Vue.js, Next.js, TailwindCSS, BootstrapCSS, Jquery & Javascript 😛
+	•	Database: PostgreSQL, MySQL, MongoDB
+	•	Cloud & DevOps: Heroku, Google Cloud, Docker, Firebase
+	•	Payments: Stripe integration, including custom billing flows
+	•	Other Services: ShareTribe
+
+📚 My Blog
+
+I also run a [Blog](https://kieetnvt.github.io/) where I share tutorials, insights, and my experiences in tech. Topics range from backend architecture and API design to frontend tips and general industry trends. Check it out if you’re interested! 
+
+🚀 Notable Projects
+
+	1.	Ride-Hailing Platform: Built a comprehensive backend for a ride-hailing service with dynamic pricing, geo-based calculations, and detailed user progress tracking.
+	2.	E-commerce Integrations: Designed custom Stripe integration flows, including tax handling, address collection, and various payment options.
+	3.	Community Web Scraper: Developed a web scraper for flight tickets, job listings, and real estate using Rails & Selenium & Capybara & Cucumber, bringing accurate data to users.
