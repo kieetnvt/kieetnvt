@@ -1,23 +1,101 @@
-Welcome to My GitHub! 👋
+<h1 align="center">👋 Welcome to My GitHub</h1>
 
-Hi, I’m kieetnvt! I’m a Ruby on Rails developer with over 7 years of experience. I build scalable web applications, optimize performance, and love exploring the latest tech trends. 
-I'm also a NodeJS developer as well 😀
+<p align="center">
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
+  <img src="https://img.shields.io/badge/Stripe-%237A4DE2.svg?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-🛠 Tech Stack
+---
 
-	•	Backend: Ruby on Rails, Node.js, ExpressJS, NestJS, AdonisJS
-	•	Frontend: Vue.js, Next.js, TailwindCSS, BootstrapCSS, Jquery & Javascript 😛
-	•	Database: PostgreSQL, MySQL, MongoDB
-	•	Cloud & DevOps: Heroku, Google Cloud, Docker, Firebase
-	•	Payments: Stripe integration, including custom billing flows
-	•	Other Services: ShareTribe
+### 👨‍💻 About Me
 
-📚 My Blog
+Hi, I’m **Kiet Nguyen** (`@kieetnvt`) — a full-stack developer with **7+ years of experience**, specializing in **Ruby on Rails** and **Node.js**.  
+I build **scalable backend systems**, design elegant APIs, and love working with modern frontend stacks.
 
-I also run a [Blog](https://kieetnvt.github.io/) where I share tutorials, insights, and my experiences in tech. Topics range from backend architecture and API design to frontend tips and general industry trends. Check it out if you’re interested! 
+Always excited about learning new tech, improving performance, and sharing my insights. 😄
 
-🚀 Notable Projects
+---
 
-	1.	Ride-Hailing Platform: Built a comprehensive backend for a ride-hailing service with dynamic pricing, geo-based calculations, and detailed user progress tracking.
-	2.	E-commerce Integrations: Designed custom Stripe integration flows, including tax handling, address collection, and various payment options.
-	3.	Community Web Scraper: Developed a web scraper for flight tickets, job listings, and real estate using Rails & Selenium & Capybara & Cucumber, bringing accurate data to users.
+### 🛠 Tech Stack
+
+#### 🔹 Backend
+- Ruby on Rails
+- Node.js (ExpressJS, NestJS, AdonisJS)
+- GraphQL
+
+#### 🔹 Frontend
+- Vue.js, Next.js  
+- TailwindCSS, BootstrapCSS
+- JavaScript, jQuery 😛
+
+#### 🔹 Database
+- PostgreSQL, MySQL, MongoDB
+
+#### 🔹 NodeJS ORM
+
+- Prisma, Sequelize, TypeORM & Mongoose 
+
+#### 🔹 Cloud / DevOps
+- Docker, Firebase, Heroku, Google Cloud
+
+#### 🔹 Payments
+- Stripe (subscriptions, connected accounts, custom billing flows, address collection, taxable logic)
+
+#### 🔹 Other Tools
+- ShareTribe, Capybara, Selenium, Cucumber
+
+---
+
+### 📚 Blogger
+
+I regularly share tutorials, insights, and dev experiences on my blog:  
+➡️ [**https://kieetnvt.github.io/**](https://kieetnvt.github.io/)
+
+Topics include:
+- Backend architecture
+- API best practices
+- Frontend workflows
+- Real-world performance tips
+- Industry trends & experiments
+
+---
+
+### 🚀 Notable Projects
+
+#### 🛒 **E-commerce Stripe Integrations**
+> Created advanced payment flows with:
+- Address validation, tax rules
+- Multiple payment options
+- Seamless custom checkout
+
+#### 🛺 **Ride-Hailing Backend**
+> Built a feature-rich backend service with:
+- Dynamic pricing engine
+- Real-time geo-location & trip tracking
+- User state management
+
+#### 🕸 **Community Web Scraper**
+> Developed a robust scraper using:
+- Ruby on Rails, Selenium, Capybara
+- Scraped flight tickets, jobs search, and real estate listings
+- Cucumber-driven testing & automation
+
+---
+
+### 🤝 Let’s Connect
+
+If you’re working on something interesting or need help with backend architecture, payments, or scraping — I’d love to hear from you!  
+Feel free to explore my repos, contribute, or reach out.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kieetnvt&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
