@@ -43,7 +43,7 @@ Always excited about learning new tech, improving performance, and sharing my in
 - Prisma, Sequelize, TypeORM & Mongoose 
 
 #### 🔹 Cloud / DevOps
-- Docker, Firebase, Heroku, Google Cloud
+- AWS Services (EC2, ECR, ECS, Elastic Beanstalk, S3, Route53, Cloudfront), Docker, Firebase, Heroku, Google Cloud
 
 #### 🔹 Payments
 - Stripe (subscriptions, connected accounts, custom billing flows, address collection, taxable logic)
