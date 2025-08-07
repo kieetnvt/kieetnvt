@@ -87,6 +87,18 @@ Topics include:
 - Scraped flight tickets, jobs search, and real estate listings
 - Cucumber-driven testing & automation
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kieetnvt&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kieetnvt&show_icons=true&show=prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kieetnvt&show_icons=true&show=prs_merged,prs_merged_percentage" />
+</picture>
+
 ---
 
 ### 🤝 Let’s Connect
