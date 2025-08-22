@@ -89,15 +89,19 @@ Topics include:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kieetnvt&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=kieetnvt&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kieetnvt&show_icons=true&show=prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=kieetnvt&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=kieetnvt&show_icons=true&show=prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kieetnvt&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kieetnvt&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
